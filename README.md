@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Rajveer Singh, an engineering undergraduate skilled in DSA, OOPs, DBMS, and MySQL. I work with C, C++, Python, HTML, and CSS, and enjoy building projects while continuously learning and improving my problem-solving skills.
 
 
